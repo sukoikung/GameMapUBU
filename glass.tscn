@@ -1,0 +1,178 @@
+[gd_scene load_steps=12 format=2]
+
+[ext_resource path="res://Models/naturePack_flat_001.obj" type="ArrayMesh" id=1]
+[ext_resource path="res://Models/naturePack_flat_002.obj" type="ArrayMesh" id=2]
+[ext_resource path="res://Models/naturePack_flat_003.obj" type="ArrayMesh" id=3]
+[ext_resource path="res://Models/naturePack_flat_005.obj" type="ArrayMesh" id=4]
+[ext_resource path="res://Models/naturePack_flat_006.obj" type="ArrayMesh" id=5]
+[ext_resource path="res://Models/naturePack_flat_008.obj" type="ArrayMesh" id=6]
+[ext_resource path="res://Models/naturePack_flat_009.obj" type="ArrayMesh" id=7]
+[ext_resource path="res://Models/naturePack_flat_010.obj" type="ArrayMesh" id=8]
+[ext_resource path="res://Models/naturePack_flat_011.obj" type="ArrayMesh" id=9]
+[ext_resource path="res://Models/naturePack_flat_012.obj" type="ArrayMesh" id=10]
+[ext_resource path="res://Models/naturePack_flat_013.obj" type="ArrayMesh" id=11]
+
+[node name="Spatial" type="Spatial"]
+
+[node name="naturePack_flat_001" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.782597, 1.05561, -6.42768 )
+mesh = ExtResource( 1 )
+material/0 = null
+
+[node name="naturePack_flat_002" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -6.96148, 1.68938, -1.1419 )
+mesh = ExtResource( 2 )
+material/0 = null
+
+[node name="naturePack_flat_003" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -7.45482, 1.38436, 3.20179 )
+mesh = ExtResource( 3 )
+material/0 = null
+
+[node name="naturePack_flat_005" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -3.90802, 1.96835, -5.54473 )
+mesh = ExtResource( 4 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+material/11 = null
+material/12 = null
+material/13 = null
+material/14 = null
+material/15 = null
+material/16 = null
+
+[node name="naturePack_flat_006" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -4.75591, 2.11934, -4.72665 )
+mesh = ExtResource( 5 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+material/11 = null
+material/12 = null
+material/13 = null
+material/14 = null
+material/15 = null
+material/16 = null
+material/17 = null
+material/18 = null
+material/19 = null
+material/20 = null
+
+[node name="naturePack_flat_008" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.702335, 1.29806, 5.48786 )
+mesh = ExtResource( 6 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+material/11 = null
+material/12 = null
+material/13 = null
+material/14 = null
+material/15 = null
+material/16 = null
+
+[node name="naturePack_flat_009" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -4.62276, 2.07761, 3.75125 )
+mesh = ExtResource( 7 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+material/11 = null
+material/12 = null
+material/13 = null
+material/14 = null
+material/15 = null
+material/16 = null
+material/17 = null
+material/18 = null
+material/19 = null
+material/20 = null
+
+[node name="naturePack_flat_010" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 4.70334, 1.84368, 5.0263 )
+mesh = ExtResource( 8 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+material/11 = null
+material/12 = null
+material/13 = null
+material/14 = null
+material/15 = null
+material/16 = null
+material/17 = null
+material/18 = null
+material/19 = null
+material/20 = null
+
+[node name="naturePack_flat_011" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.93802, 2.61844, 5.55337 )
+mesh = ExtResource( 9 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+material/11 = null
+material/12 = null
+material/13 = null
+material/14 = null
+material/15 = null
+material/16 = null
+
+[node name="naturePack_flat_012" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -2.70237, 2.86098, 4.73312 )
+mesh = ExtResource( 10 )
+material/0 = null
+
+[node name="naturePack_flat_013" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -6.96042, 0.360273, 1.36342 )
+mesh = ExtResource( 11 )
+material/0 = null
